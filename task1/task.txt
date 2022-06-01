@@ -1,4 +1,4 @@
-HTTP 
+HTTP/1.1 vs HTTP/2.2 DIFFERENCE
 
 HTTP is a hyper text transfer protocol.its is a top level application protocol
 it is the standard for communication www
