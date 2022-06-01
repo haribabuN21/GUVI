@@ -1,0 +1,17 @@
+Object and internal representation
+
+objects in javascript are similar to real world objects and it has own set 
+properties.
+
+let take a car for example
+
+it has own properties height ,width and color etc.
+all the objects in the javascript are associated with its properties
+
+var car ={
+    name ="volvo",
+    color="white",
+    staring ="power",
+    model="swift",
+    year="2022"
+}
