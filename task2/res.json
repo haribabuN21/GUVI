@@ -1,12 +1,11 @@
 {
     "basics": {
-      "name": "John Doe",
+      "name": "haribabu",
       "label": "Programmer",
       "image": "",
-      "email": "john@gmail.com",
+      "email": "haribabu@gmail.com",
       "phone": "(912) 555-4321",
-      "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "A summary of hari",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -14,12 +13,7 @@
         "countryCode": "US",
         "region": "California"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
-    },
+
     "work": [{
       "name": "Company",
       "position": "President",
@@ -93,10 +87,7 @@
         "Unicorns"
       ]
     }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
+    
     "projects": [{
       "name": "Project",
       "description": "Description…",
