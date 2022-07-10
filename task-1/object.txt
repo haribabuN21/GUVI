@@ -1,0 +1,43 @@
+Difference between document and windows object
+
+Introduction
+            This article is about documents and windows objects and the methods and properties and the difference between them.
+
+Document Object
+            A document object represents an HTML page and it is used for accessing HTML elements and changing content in a dynamic way document object can be accessed using Windows. document or document.prototype name
+
+It is loaded inside the window 
+It is the object of the window property
+We can access the document from a window using a window.  document
+The document is a part of the BOM and DOM
+
+
+Properties of document
+ActiveElement: it returns currently active elements in document.
+Body: it returns the content of the body element
+Cookie: it returns the content the cookie of the current document 
+There are a lot of other properties to discuss.
+
+Method of document:
+ addEventListener(): it is used to attach an event handler to the specified element
+adopted(): it is used to adopt a node from another document
+ close(): it is used to close the output stream.
+
+Window Object:
+      A window object represents a browser window or frame that displays the content of the web page
+
+It is the very first object that is loaded in the browser
+Global object,  function, and variable of javascript 
+
+Properties of the windows:
+       Closed: it holds a Boolean value that represents whether the window is closed or not 
+      Console: it returns a reference to the console object which provides access to the browser debugging console 
+
+Length represents several frames in the current window.
+
+
+Methods of windows:
+ Alert(): display the alert box with the ok button 
+Blur()used  to remove focus from the current window
+
+
