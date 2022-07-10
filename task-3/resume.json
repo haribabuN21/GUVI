@@ -1,0 +1,25 @@
+{
+    "name":"haribabu",
+    "age":28,
+    "gender":"male",
+    "mail":"bhari4165@gmail.com",
+    "degree":"BCA",
+    "location":
+    {
+        "address":"ambathkar street ",
+        "postalcode":600087,
+        "area":"valasaravakkam",
+        "city":"Chennai"    
+    },
+    "education":
+    {
+      "10th":"sathyaa matric higher secondary school",
+      "12th":"mcn hig secondary school ",
+      "BCA" : "ST.joseph's college arts and science",
+    },     
+    "work":
+    {
+    "organization":"shippr pvt ltd",
+    "position":"supervisior"
+
+    }
