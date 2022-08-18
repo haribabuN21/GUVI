@@ -9,8 +9,6 @@ var object1 = {
   };
       
   let b =JSON.stringify(object1) === JSON.stringify(object2)
-  // false
       console.log(b);
   let a = isEqual(obj1, obj2)
-  // true
   console.log(a);
