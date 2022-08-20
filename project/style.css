@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.shop{
+    background-color: blueviolet;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+#flex{
+    display: grid;
+    column-gap: 50px;
+
+}

@@ -20,7 +20,7 @@
               console.log("sr= "+data[i].subregion);
               console.log("people= "+data[i].population);
 
-              
+
                       
          }
      }
